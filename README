@@ -4,7 +4,8 @@ November 2020 - Update
 /*--------
 FusionV1 - Does not make any Assumptions about BackEnd Databases, or Content Managers. Can Support Any Code Base on any Toolsets and is more flexible than V2 which supports Wordpress 
 Drupal And Joomla Hybrid Installations. In Other Words V2 is our recommended approach, but may not be right for everyone. For Custom Clients we start with V1 and use Installatron 
-to enhance their environment to any Opensource.
+to enhance their environment to any Opensource. If your company has no webrsources you want V2 which is support of WebAutopilot for those with good marketing teams but sparse IT 
+resources.
 */////////////
 
 This ADD-ON IS NOT INCLUDED WITH THE BASE V1 PACAKGE.
